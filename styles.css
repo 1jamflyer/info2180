@@ -1,0 +1,84 @@
+p{
+	font-style: "Times New Roman";
+	font-size: 16;
+	text-align: justify;
+
+}
+h1{
+	font-style: "Arial";
+	font-size: 30;
+}
+h2{
+	font-style:"Arial";
+	font-size: 16;
+	display: inline;
+}
+body{
+	background-color: 'white';
+	background: url("https://blogrebellive.files.wordpress.com/2013/09/grey-background-for-site11.jpg");
+	background-attachment: fixed;
+}
+.name{
+	font-family: "Arial";
+	font-weight: bold ;
+	text-align: left;
+	font-size: 30;
+}
+hr{
+	width:100%;
+
+}
+.Jonno{
+	  -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+      -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+      box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+      position: absolute;
+      top: 0px;
+      right: 30px;
+      transform: rotate(355deg);
+      width: 300px;
+}
+.intro{
+	font-style:"Times New Roman";
+	font-size: 16;
+	margin:  50px 550px 50px 10px;
+}
+.about{
+	font-style:"Times New Roman";
+	font-size: 16;
+	margin:  50px 150px 50px 0px;
+}
+.info{
+    border-left:solid;
+    padding-left: 20px;
+    overflow: hidden;
+    float right;
+}
+
+
+#Education{
+    
+}
+
+#Skills{
+    
+}
+
+#Experience{
+    
+}
+
+
+
+#titlebox{
+    font-style: "cursive";
+    float: left;
+    padding-right: 20px;
+    width: 100px;
+}
+
+.box{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-left: 50px;
+}
